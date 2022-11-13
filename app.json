@@ -11,12 +11,12 @@
       "value": "Your Name."
   },
   "ALIVE_MESSAGE": {
-    "description": "Alive මැසෙජ් එකට ඔයා කැමති එකක් දාන්න,
+    "description": "❍🇸 🇦 🇨 🇭 🇮 🇹 🇭  ＭＤ ＷＡ ＢＯＴ ＳＬ❍,
      "required" :false
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://github.com/SecktorBot/Brandimages/blob/main/SocialLogo%201.jpg?raw=true"
+     "value": "https://i.imgur.com/NGaJQta.jpeg?raw=true"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
