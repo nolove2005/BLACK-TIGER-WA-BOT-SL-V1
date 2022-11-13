@@ -11,7 +11,7 @@
       "value": "Your Name."
   },
   "ALIVE_MESSAGE": {
-    "description": "Alive මැසෙජ් එකට ඔයා කැමති එකක් දාන්න⬇️,
+    "description": "Alive මැසෙජ් එකට ඔයා කැමති එකක් දාන්න,
      "required" :false
     },
    "THUMB_IMAGE": {
